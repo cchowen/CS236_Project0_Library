@@ -1,0 +1,3 @@
+/users/guest/c/cchowen/cs236/Project 0/cmake-build-debug-remote-lab-machine/CMakeFiles/rebuild_cache.dir
+/users/guest/c/cchowen/cs236/Project 0/cmake-build-debug-remote-lab-machine/CMakeFiles/edit_cache.dir
+/users/guest/c/cchowen/cs236/Project 0/cmake-build-debug-remote-lab-machine/CMakeFiles/CS236_P0.dir

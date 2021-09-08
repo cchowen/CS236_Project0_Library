@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/CS236_P0.dir/Book.cpp.o CMakeFiles/CS236_P0.dir/BookCreator.cpp.o CMakeFiles/CS236_P0.dir/BookListCreator.cpp.o CMakeFiles/CS236_P0.dir/Info.cpp.o CMakeFiles/CS236_P0.dir/Library.cpp.o CMakeFiles/CS236_P0.dir/main.cpp.o  -o CS236_P0 

@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/users/guest/c/cchowen/cs236/Project 0"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /users/guest/c/cchowen/cs236/Project 0/cmake-build-debug-remote-lab-machine
